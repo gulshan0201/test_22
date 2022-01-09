@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  display: flex;
+}
+
+.logo{
+  display: flex;
+  width: 30%;
+  margin: 21px;
+}
+
+span{
+  padding: 5px;
+  font-size: 24px;
+  color: #6b6e73;
+}
+
+.nav-list{
+  display: flex;
+  width: 70%;
+  padding: 30px;
+  justify-content: end;
+}
+
+.nav-list ul li{
+  list-style: none;
+  display: inline;
+  font-size: 19px;
+  color: #6b6e73;
+}
+
+
+.date{
+  padding-right: 10px;
+}
+
+.link{
+  padding-right: 10px;
+  margin-left: 10px;
+}
+
+.link a{
+  padding-right: 20px;
+}
+
+.menu{
+  padding-right: 10px;
+}
+
+.menu a{
+  padding-right: 10px;
+}
+
+.br-20{
+  border-radius: 20px;
+}
+
+section{
+  display: flex;
+  margin: 20px;
+}
+
+.content{
+  width: 50%;
+  margin: 30px;
+}
+
+.content h1{
+  font-size: 50px;
+}
+
+.content p{
+  line-height: 32px;
+}
+
+.image{
+  width: 50%;
+  text-align: center;
+}
+
+.fs-27{
+  font-size: 20px;
+}
+
+.fs-20{
+  font-size: 17px;
+}
+
+button{
+  background-color: #1a73e8;
+  color: white;
+  font-size: 17px;
+  padding: 10px;
+  border: solid;
+  line-height: 20px;
+  border-radius: 5px;
+}
+
+.mr-8 {
+  margin-right: 8px;
+}
+
+input{
+  padding-right: 58px;
+  padding-top: 16px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
