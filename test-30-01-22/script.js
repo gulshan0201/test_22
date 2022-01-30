@@ -22,7 +22,7 @@ function findCountry() {
 }
 
 var table = document.getElementById("table");
-var addurl = "https://universities.hipolabs.com/search?country";
+var addurl = "http://universities.hipolabs.com/search?country";
 fetch (addurl)
 .then ((response) => {
 
