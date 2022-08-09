@@ -8,4 +8,4 @@ const capital = function(sentence){
   return string.join(" ");
 }
 
-console.log(capital("i love javascript"));
+console.log(capital("the quick brown fox"));
