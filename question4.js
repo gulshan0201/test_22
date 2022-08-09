@@ -7,4 +7,4 @@ function combine(s){
   } 
   return combined_string;
 }
-console.log(combine("son"));
+console.log(combine("gulshan"));
